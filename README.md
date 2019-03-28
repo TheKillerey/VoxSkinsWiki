@@ -4,19 +4,19 @@ Custom Skins for League of Legends created by TheKillerey
 Custom Skins right now:
 
 Released:
-Old Kassadin
-Old Summoners Rift Reworked
+- Old Kassadin
+- Old Summoners Rift Reworked
 
 WIP:
-Original Summoners Rift + all old Skins
-Old Summoners Rift Remastered
-Old Aram Map
-Other Old Maps (Dominion)
-Old Shopkeeper SR
-Old Minions
-Old Turrets etc.
-Old Jungle
-Old Assets
+- Original Summoners Rift + all old Skins
+- Old Summoners Rift Remastered
+- Old Aram Map
+- Other Old Maps (Dominion)
+- Old Shopkeeper SR
+- Old Minions
+- Old Turrets etc.
+- Old Jungle
+- Old Assets
 
 ----------------------------------------------------------------------------------------
 
