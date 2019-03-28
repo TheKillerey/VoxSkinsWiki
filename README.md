@@ -23,7 +23,7 @@ WIP:
 How to Install my Mods:
 
 Simply Add Custom2.wad.client to:  *\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\0.0.*.*\deploy\DATA\FINAL
-                                                                                                             Latest Number
+                                                                                                             (Latest Number)
 Download and open this tool: http://leagueskin.net/p/download-mod-skin-lol-pro-2016-chn
 
 Done.
