@@ -46,3 +46,5 @@ Old Summoners Rift Remastered
 - Little grass UV is missing and is only showing in green
 - On base the decal is too high
 - Grass over the base is bugged in Terrain
+
+https://i.imgur.com/rIC0R2v.png
