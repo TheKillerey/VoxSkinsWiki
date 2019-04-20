@@ -4,7 +4,6 @@ Custom Skins for League of Legends created by TheKillerey
 Custom Skins right now:
 
 Released:
-- Old Kassadin
 - Old Summoners Rift Reworked
 
 WIP:
@@ -17,20 +16,20 @@ WIP:
 - Old Turrets etc.
 - Old Jungle
 - Old Assets
-
+- Old Kassadin
 ----------------------------------------------------------------------------------------
 
 How to Install my Mods:
 
-Simply Add Custom2.wad.client to:  *\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\0.0.*.*\deploy\DATA\FINAL
-                                                                                                             (Latest Number)
-Install .wxy file with Wooxy: https://chewychronicles.wordpress.com/wooxy/                                                                                                             
-Download and open this tool: http://leagueskin.net/p/download-mod-skin-lol-pro-2016-chn
+Download and open this tool and install a custom Map: http://leagueskin.net/p/download-mod-skin-lol-pro-2016-chn This do not have the new version.
+Then simply Add my Custom2.wad.client to:  *:\Riot Games\League of Legends\Game\DATA\FINAL
+                                                                                                             
+!!!Wooxy is not more Supported!!!                                                                                                        
+
 
 Done.
 
 Or just install the programm and install the map mod there: https://i.imgur.com/2o2o7k6.jpg
-The Dev will get all updates first so choose this method ^^
 
 ----------------------------------------------------------------------------------------
 
@@ -46,5 +45,6 @@ Old Summoners Rift Remastered
 - Little grass UV is missing and is only showing in green
 - On base the decal is too high
 - Grass over the base is bugged in Terrain
+- Compressed 2600 Models to 96. This causes an bug on Lane Rocks and Nexus Rocks
 
 https://i.imgur.com/rIC0R2v.png
