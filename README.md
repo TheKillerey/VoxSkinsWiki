@@ -1,6 +1,8 @@
 # Killer-Custom-Skins
 Custom Skins for League of Legends created by TheKillerey
 
+Version 1.1 Released
+
 Custom Skins right now:
 
 Released:
