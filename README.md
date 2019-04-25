@@ -26,7 +26,8 @@ How to Install my Mods:
 Download and open this tool and install a custom Map: http://leagueskin.net/p/download-mod-skin-lol-pro-2016-chn This do not have the new version.
 Then simply Add my Custom2.wad.client to:  *:\Riot Games\League of Legends\Game\DATA\FINAL
                                                                                                              
-!!!Wooxy is not more Supported!!!                                                                                                        
+!!!Wooxy is not more Supported!!! 
+"""Also if you close your client you need to reinstall all mods again. Because Riot uses a new Patcher that makes a clean install"""
 
 
 Done.
@@ -42,11 +43,8 @@ I don't need a Bugreport because I test all.
 Bugs already: 
 
 Old Summoners Rift Remastered
-- Terrain UV on Base and River is not correct
 - Spells like Jinx W or Draven Q mostly bugged in Terrain
 - Little grass UV is missing and is only showing in green
-- On base the decal is too high
-- Grass over the base is bugged in Terrain
-- Compressed 2600 Models to 96. This causes an bug on Lane Rocks and Nexus Rocks
+- Compressed 2600 Models to 96. This causes an bug on some decals
 
 https://i.imgur.com/rIC0R2v.png
