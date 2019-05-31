@@ -1,7 +1,7 @@
 # Killer-Custom-Skins
 Custom Skins for League of Legends created by TheKillerey
 
-9.11 --> Champ Skins: Need a Fix / Map Skins: Need a Fix / Sound: Need a Fix / Others: Unknown
+9.11 --> Champ Skins: Working / Map Skins: Working with new Bin file/ Sound: Unknown / Others: Unknown
 
 Version 1.1 Released
 
