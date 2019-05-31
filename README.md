@@ -26,7 +26,8 @@ WIP:
 How to Install my Mods:
 
 Download and open this tool and install a custom Map: http://leagueskin.net/p/download-mod-skin-lol-pro-2016-chn This do not have the new version.
-Then simply Add my Custom2.wad.client to:  *:\Riot Games\League of Legends\Game\DATA\FINAL
+Then simply Add my Map File t to:  C:\Fraps\data\Lib\Custom
+It will automatically load the skin.
                                                                                                              
 !!!Wooxy is not more Supported!!! 
 """Also if you close your client you need to reinstall all mods again. Because Riot uses a new Patcher that makes a clean install"""
